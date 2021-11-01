@@ -1,0 +1,15 @@
+.stop-watch{
+    background-color:#EEEEEE;
+    display:inline-block;
+    width:400PX;
+    height:230px;
+    padding:50px;
+}
+.timer{
+    text-align:center;
+    padding:20px;
+    font-size:50px; 
+}
+.buttons{
+    text-align:center;
+}
